@@ -319,6 +319,7 @@ export const themes = {
     title_color: "0366d6",
     text_color: "77909c",
     icon_color: "8b949e",
+    border_color: "2e343b",
     bg_color: "0d1117",
   },
   github_dark_dimmed: {

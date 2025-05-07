@@ -316,10 +316,10 @@ export const themes = {
     bg_color: "1D252C",
   },
   github_dark: {
-    title_color: "ffffff",
-    text_color: "ffffff",
-    icon_color: "ffffff",
-    bg_color: "35,4158d0,c850c0,ffcc70",
+    title_color: "0366d6",
+    text_color: "77909c",
+    icon_color: "8b949e",
+    bg_color: "0d1117",
   },
   github_dark_dimmed: {
     title_color: "539bf5",
